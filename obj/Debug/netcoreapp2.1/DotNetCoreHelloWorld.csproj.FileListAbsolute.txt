@@ -1,0 +1,14 @@
+/Users/forrcoll/code/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/DotNetCoreHelloWorld.deps.json
+/Users/forrcoll/code/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/DotNetCoreHelloWorld.runtimeconfig.json
+/Users/forrcoll/code/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/DotNetCoreHelloWorld.runtimeconfig.dev.json
+/Users/forrcoll/code/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/DotNetCoreHelloWorld.dll
+/Users/forrcoll/code/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/DotNetCoreHelloWorld.pdb
+/Users/forrcoll/code/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/DotNetCoreHelloWorld.csprojAssemblyReference.cache
+/Users/forrcoll/code/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/DotNetCoreHelloWorld.csproj.CoreCompileInputs.cache
+/Users/forrcoll/code/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/DotNetCoreHelloWorld.RazorAssemblyInfo.cache
+/Users/forrcoll/code/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/DotNetCoreHelloWorld.RazorAssemblyInfo.cs
+/Users/forrcoll/code/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/DotNetCoreHelloWorld.AssemblyInfoInputs.cache
+/Users/forrcoll/code/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/DotNetCoreHelloWorld.AssemblyInfo.cs
+/Users/forrcoll/code/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/DotNetCoreHelloWorld.RazorTargetAssemblyInfo.cache
+/Users/forrcoll/code/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/DotNetCoreHelloWorld.dll
+/Users/forrcoll/code/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/DotNetCoreHelloWorld.pdb
