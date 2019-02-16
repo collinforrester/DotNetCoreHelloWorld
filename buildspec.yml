@@ -5,6 +5,7 @@ phases:
     commands:
       - dotnet restore
       - dotnet build
+      - dotnet publish -c Release -r win-x64 --self-contained
 artifacts:
   files:
     - .\bin\Debug\netcoreapp2.1\*

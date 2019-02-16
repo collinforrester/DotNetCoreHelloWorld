@@ -1,3 +1,3 @@
 REM Install Internet Information Server (IIS). 
-powershell.exe -Command Import-Module -Name ServerManager
-powershell.exe -Command Install-WindowsFeature Web-Server
+REM powershell.exe -Command Import-Module -Name ServerManager
+REM powershell.exe -Command Install-WindowsFeature Web-Server
