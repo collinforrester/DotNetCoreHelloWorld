@@ -4,7 +4,9 @@ phases:
   build:
     commands:
       - dotnet publish -c Release -o out
-      - dir
+  postbuild:
+    commands:
+      - ls -al
 artifacts:
   files:
     - .\
