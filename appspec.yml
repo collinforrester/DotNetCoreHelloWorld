@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \obj\Debug\netcoreapp2.1
+  - source: \out
     destination: C:\inetpub\wwwroot\DotNetCoreHelloWorld
 hooks:
   BeforeInstall:
