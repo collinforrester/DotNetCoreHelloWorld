@@ -3,11 +3,11 @@ version: 0.2
 phases:
   build:
     commands:
-      - dotnet publish -c Release -o out
+      - dotnet publish -o site
   post_build:
     commands:
       - ls
 artifacts:
   files:
     - '**/*'
-  base-directory: 'out'
+  base-directory: 'site'
